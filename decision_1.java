@@ -61,9 +61,7 @@ public class decision_1 {
                 findPerson(str); 
                 break;      
 
-            default:   
-                System.out.print("Для того, чтобы добавить клиента в базу, наберите: 1 \n" +
-                    "Для того, чтобы вывести, наберите: 2\n");                                                                                                                                
+            default:                                                                                                                               
                 break;  
                                                                                                                                           
         }   iScanner.close();  
